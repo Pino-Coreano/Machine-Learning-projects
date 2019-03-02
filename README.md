@@ -9,5 +9,5 @@ Machine-Learning
 
 ---
 ### Decision Tree
-[Decision Tree](https://github.com/Yuanqing-Suo/Machine-Learning-ass/blob/master/decisionTree.py)
+[Decision Tree Code](https://github.com/Yuanqing-Suo/Machine-Learning-ass/blob/master/decisionTree.py)
 > Using important entroy gain (ID3 Algorithm) build a decision tree
