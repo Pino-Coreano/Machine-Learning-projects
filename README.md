@@ -1,6 +1,6 @@
 Machine-Learning
 ===
-> Assignments in UWL CS 519 Fall 2018
+> Related Assignment in UWL CS 519 Fall 2018
 
 ****
 ## Contents
