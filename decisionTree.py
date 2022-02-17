@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: utf-8 -*-
 
-#__author__ = "Yuanqing Suo"
+#__author__ = "Suo"
 # ========================Part1 : User Input Training Size and Increment===========================
 
 import operator
